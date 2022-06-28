@@ -3,5 +3,5 @@ SMTP-клиент
 Для работы вызвать smtp-client.py <имя_пользователя_яндекс> <пароль>  
 
 Также необходимо указать адрес получателя в файле headers.  
-Файл cfg.txt заполняется следуюзим образом: attachment/inline text/image <filename>  
+Файл cfg.txt заполняется следуюзим образом: attachment/inline text/image <имя_файла>  
 Текстовое сообщение пишем в msg.txt
